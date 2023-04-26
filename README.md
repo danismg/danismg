@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Andres Simangunsong</h1>
 <h3 align="center">Information Systems at Del Institute of Technology</h3>
 
-- 📫 How to reach me **danielandressmg@gmail.com**
+- 📫 How to reach me "**danielandressmg@gmail.com**"
 
-- 📄 Know about my experiences [https://t.ly/myCV_Daniel](https://t.ly/myCV_Daniel)
+- 📄 Know about my [experiences](https://t.ly/myCV_Daniel)
 
 - ⚡ Fun fact **I am single :v**
 

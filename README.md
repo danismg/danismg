@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Andres Simangunsong</h1>
 <h3 align="center">Information Systems at Del Institute of Technology</h3>
 
-- 📫 How to reach me "**danielandressmg@gmail.com**"
+- 📫 How to reach me "**danismg@gmail.com**"
 
 - 📄 Know about my [experiences](https://t.ly/myCV_Daniel)
 
@@ -10,18 +10,18 @@
 
 ## GitHub Stats
 <div class="myDiv">
-  <a href="https://github.com/DanielAndresSmg/DanielAndresSmg">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielAndresSmg&hide=issues&show_icons=true&title_color=7393B3&icon_color=7393B3"   />
+  <a href="https://github.com/danismg/danismg">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danismg&hide=issues&show_icons=true&title_color=7393B3&icon_color=7393B3"   />
   </a>
-  <a href="https://github.com/DanielAndresSmg/DanielAndresSmg">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAndresSmg&layout=compact&title_color=7393B3" alt="Most Used Language" />
+  <a href="https://github.com/danismg/danismg">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danismg&layout=compact&title_color=7393B3" alt="Most Used Language" />
   </a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danielsmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielsmg" height="30" width="40" /></a>
-<a href="https://instagram.com/danielandressmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielandressmg" height="30" width="40" /></a>
+<a href="https://instagram.com/danismg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danismg" height="30" width="40" /></a>
 </p>
 
 
